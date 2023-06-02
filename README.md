@@ -20,3 +20,4 @@ Any other supplementary datasets are notated within the project itself.
 * Matplotlib 3.7.1 
 * Scipy 1.10 
 * Plotly 5.13.1
+* MySql Workbeanch 
