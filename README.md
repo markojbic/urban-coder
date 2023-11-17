@@ -8,8 +8,8 @@ This repository contains a collection of data analysis projects that demonstrate
 ### Data Sources
 
 ~~~
-All datasets have been provided by Dataquest Io. 
-Any other supplementary datasets are notated within the project itself. 
+All datasets have been provided by Dataquest IO, webscrapped, or from another source. 
+
 ~~~
 ### Requirements
 
@@ -20,4 +20,5 @@ Any other supplementary datasets are notated within the project itself.
 * Matplotlib 3.7.1 
 * Scipy 1.10 
 * Plotly 5.13.1
-* MySql Workbeanch 
+* MySql Workbeanch
+  
