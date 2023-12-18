@@ -1,0 +1,4 @@
+A project of me testing batch csv uploads into a table schema that I created. The datasets vary in size all the way up to 250,000 rows of data. I was exploring the most effecient large data upload method
+and appropriate table schemas with primary and foreign keys and correct data types. 
+
+The script provided is the syntax of the batch uploads, a few queries to test the data to make sure the schema interacts properly, and also creating stored procedures. 
